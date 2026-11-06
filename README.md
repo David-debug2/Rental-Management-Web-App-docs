@@ -53,3 +53,7 @@ This repository and Wiki contain public product documentation. [How I Built It](
 To obtain the source code, visit [Project David's Ko-fi shop](https://ko-fi.com/projectdavid). Review the [purchase terms](Purchase-Terms.md) before buying. Hosting, setup, customization, support and updates are included only where expressly stated in your order.
 
 Copyright David Alea, trading as Project David. See the [documentation notice](Documentation-Notice.md). Public documentation does not grant a license to the paid application source.
+
+## More cards and settings
+
+Explore the [Settings Showcase](Settings-Showcase.md) for identity, appearance, numbering, delivery, rental options and update cards. The [Workspace Cards tour](Workspace-Cards.md) shows all thirteen tabs at a reduced scale, including cards below the first screen.

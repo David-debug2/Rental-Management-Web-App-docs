@@ -94,3 +94,7 @@ A narrow browser view shows the compact header, horizontal navigation and More P
 4. On the customer page choose Book a Date, select quantities and pickup/delivery, then Preview Estimate before deciding whether to submit a fictional request.
 
 The browser-local demo is separate from an independently configured online installation. Provider-dependent features, available rental options and appearance depend on configuration. Full setup guides and the development source accompany the [commercial source product](https://ko-fi.com/projectdavid). See [purchase terms](Purchase-Terms.md).
+
+## Explore every card
+
+See the [Settings Showcase](Settings-Showcase.md) for readable card close-ups and the [Workspace Cards tour](Workspace-Cards.md) for zoomed-out views of every tab.
