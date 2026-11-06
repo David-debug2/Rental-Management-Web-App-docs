@@ -6,6 +6,12 @@ A rental-management workspace for small businesses that need a clearer way to ma
 
 The demo uses fictional records stored in your browser and simulated routing. Changes there do not affect a real rental business. A separately configured online installation shares records between invited users.
 
+## See the app
+
+![Owner dashboard with fictional rental sales and expense summaries](assets/screenshots/dashboard.png)
+
+*Actual demo screenshot with fictional data. [Browse the illustrated tour](Screenshots.md) for the calendar, inventory, booking form, receipts, customer page and mobile view.*
+
 ## Who it is for
 
 - Event and equipment rental businesses managing items, delivery and returns.
@@ -26,7 +32,7 @@ Customers open the public booking page, choose available rental options, enter t
 5. Review requests, confirm availability and charges, then record dispatch/check-in, returns/check-out and payments.
 6. Issue and print documents, review reports and keep your records current.
 
-See [Getting Started](https://github.com/David-debug2/Rental-Management-Web-App-docs/wiki/Getting-Started) and [Rental Workflows](https://github.com/David-debug2/Rental-Management-Web-App-docs/wiki/Rental-Workflows) for a practical overview.
+See the [visual tour](Screenshots.md), [Getting Started](https://github.com/David-debug2/Rental-Management-Web-App-docs/wiki/Getting-Started) and [Rental Workflows](https://github.com/David-debug2/Rental-Management-Web-App-docs/wiki/Rental-Workflows) for a practical overview.
 
 ## Main capabilities
 

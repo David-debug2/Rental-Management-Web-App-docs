@@ -6,6 +6,8 @@ I built this app around the daily work of a small rental business: knowing what 
 
 I mapped the actions a customer and a business owner need to take. Customers need a clear way to request a rental. Owners need to review availability and charges before confirming it. Property stays and monthly agreements need their own rental choices and follow-up actions.
 
+The [visual tour](Screenshots.md) shows the interface behind these decisions, using fictional demonstration data.
+
 ## Building the interface
 
 I used React and TypeScript with Vite for the browser interface. The workspace brings together a calendar, forms, inventory, reports and settings. I kept the customer request flow separate from the invited-owner workspace and made the layout usable across common screen sizes.
